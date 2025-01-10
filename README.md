@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+X
 **alirzx/alirzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +20,6 @@ https://github.com/user-attachments/assets/41eed6a3-a969-4b8c-ae7d-17a60db5529a
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alirzx&theme=dracula&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
