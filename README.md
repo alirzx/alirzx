@@ -33,6 +33,4 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 - **Other Tools**: Git, Docker, Jupyter Notebooks
 
 
-
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas. 🚀
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alirzx&theme=dracula&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
