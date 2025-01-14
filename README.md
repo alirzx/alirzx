@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 
 
 ### 🛠️ Technologies & Tools
-- **Programming Languages**: Python, C++, MATLAB
+- **Programming Languages**: Python,SQL
 - **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn
 - **Computer Vision**: OpenCV, YOLO, MediaPipe
 - **EEG Processing**: MNE-Python, Brainflow, EEGLAB
