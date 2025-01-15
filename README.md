@@ -1,4 +1,4 @@
-# Hi there, I'm Alira 👋
+# Hi there, I'm Alira hshmi 👋
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bachelor's degree and over **3 years of experience** in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My primary focus is on **Machine Learning** and **Computer Vision**, and I have built several strong repositories in these fields. I'm also deeply interested in **Brain-Computer Interfaces (BCI)**, **Computational Neuroscience**, and **EEG Processing**. Understanding how the human mind works is a lifelong passion and a driving force in my life.
 
