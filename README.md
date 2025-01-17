@@ -8,11 +8,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 
 ## 🌱 What I'm Currently Learning
 - Deepening my knowledge of **Computational Neuroscience**.
-- Exploring state-of-the-art techniques in **Reinforcement Learning**.
 
 ## 👯 Looking to Collaborate On
 - **Machine Learning** and **Computer Vision** projects.
-- **BCI** and **EEG Processing** research.
 
 ## 🤔 Looking for Help With
 - Cutting-edge research in **Computational Neuroscience**.
