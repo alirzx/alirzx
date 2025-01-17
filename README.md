@@ -2,7 +2,7 @@
 # Hi there, I'm Alira hshmi 👋
 
 
-![NeuralNetwork](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFWYj4f4Od2t_sQ8CMQegX6pFrPgiXJGNab0Vdsjxe8Soa6gImDTYk44imLkgZzu9Bwa8&usqp=CAU)
+![NeuralNetwork](https://www.ukri.org/wp-content/uploads/2023/03/MRC-09032023-GettyImages-1423765403-735x490.jpg)
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bachelor's degree and over **3 years of experience** in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My primary focus is on **Machine Learning** and **Computer Vision**, and I have built several strong repositories in these fields. I'm also deeply interested in **Brain-Computer Interfaces (BCI)**, **Computational Neuroscience**, and **EEG Processing**. Understanding how the human mind works is a lifelong passion and a driving force in my life.
 
