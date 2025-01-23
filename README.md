@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 - **Programming Languages**: Python,SQL
 - **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn
 - **Computer Vision**: OpenCV, YOLO, MediaPipe
-- **EEG Processing**: MNE-Python, Brainflow, EEGLAB
 - **Other Tools**: Git, Docker, Jupyter Notebooks.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirzx&show_icons=true&theme=radical)
