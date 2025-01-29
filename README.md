@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 
 
 ## 🌱 What I'm Currently Learning
-- Deepening my knowledge of **Computational Neuroscience**
+- Deepening my knowledge of **Computational Neuroscience**.
 
 ## 👯 Looking to Collaborate On
 - **Machine Learning** and **Computer Vision** projects.
