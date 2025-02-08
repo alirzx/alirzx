@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 - **Machine Learning** and **Computer Vision** projects.
 
 ## 🤔 Looking for Help With
-- Cutting-edge research in **Computational Neuroscience**.
+- Cutting-edge research in **Computational Neuroscience**, and explore its world.
 - Optimizing **EEG signal processing** pipelines.
 - Collaborations on **AI for Mental Health** applications.
 
