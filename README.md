@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 - **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn, pandas, numpy
 - **Computer Vision**: OpenCV, YOLO, MediaPipe
 - **Other Tools**: Git, Docker, Jupyter Notebooks.
-
+w
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirzx&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alirzx&theme=radical&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
