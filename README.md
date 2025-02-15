@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 - Deepening my knowledge of **Computational Neuroscience**.
 
 ## 👯 Looking to Collaborate On
-- **Machine Learning** and **Computer Vision** projects.
+- **Machine Learning** and **Computer Vision** projects..
 
 ## 🤔 Looking for Help With
 - Cutting-edge research in **Computational Neuroscience**, and explore its world.
