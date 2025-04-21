@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 
 ### 🛠️ Technologies & Tools
 - **Programming Languages**: Python,SQL
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn, pandas, numpy
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn, pandas, numpy,
 - **Computer Vision**: OpenCV, YOLO, MediaPipe, torchvision.
 - **Other Tools**: Git, Docker, Jupyter Notebooks.
 
