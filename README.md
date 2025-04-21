@@ -1,6 +1,6 @@
 ![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
 
-# Hi there, I'm Alira hshmi
+# Hi there, I'm Alira hshmi،
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bachelor's degree and over **3 years of experience** in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My primary focus is on **Machine Learning** and **Computer Vision**, and I have built several strong repositories in these fields. I'm also deeply interested in **Brain-Computer Interfaces (BCI)**, **Computational Neuroscience**, and **EEG Processing**. Understanding how the human mind works is a lifelong passion and a driving force in my life.
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 
 ### 🛠️ Technologies & Tools
 - **Programming Languages**: Python,SQL
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn, pandas, numpy,
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn, pandas, numpy
 - **Computer Vision**: OpenCV, YOLO, MediaPipe, torchvision.
 - **Other Tools**: Git, Docker, Jupyter Notebooks.
 
