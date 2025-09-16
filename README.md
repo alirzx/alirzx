@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 - **Machine Learning** and **Computer Vision**.
 - **Brain-Computer Interfaces (BCI)** and **EEG Processing**.
 - **Computational Neuroscience** and its intersection with AI.
+- and Philosophy !
 
 
 ### 🛠️ Technologies & Tools
