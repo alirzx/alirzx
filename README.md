@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bach
 
 ## 🔭 What I'm Currently Working On
 - Developing advanced **Computer Vision** models for real-world applications.
+- research on Medical & biomedical & neuro imaging 
 
 
 ## 🌱 What I'm Currently Learning
