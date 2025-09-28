@@ -1,38 +1,50 @@
 ![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
 
-# Hi there, I'm Alira hshmi
+Hi there, I'm Alireza Hashemi 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a Bachelor's degree and over **3 years of experience** in **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My primary focus is on **Machine Learning** and **Computer Vision**, and I have built several strong repositories in these fields. I'm also deeply interested in **Brain-Computer Interfaces (BCI)**, **Computational Neuroscience**, and **EEG Processing**. Understanding how the human mind works is a lifelong passion and a driving force in my life.
+Welcome to my GitHub! I am an AI & Machine Learning Engineer with over 3 years of experience applying deep learning, computer vision, NLP, and biomedical imaging to real-world challenges. My work spans research and industry, including medical imaging, neuroimaging, and brain–computer interfaces (BCI). I am driven by a research-oriented and ethics-conscious approach, creating AI systems that are both technically robust and societally impactful.
 
-## 🔭 What I'm Currently Working On
-- Developing advanced **Computer Vision** models for real-world applications.
-- research on Medical & biomedical & neuro imaging 
+🔭 Current Work
 
+Developing scalable Computer Vision and NLP models for real-world applications.
 
-## 🌱 What I'm Currently Learning
-- Deepening my knowledge of **Computational Neuroscience** & **medical image analysis**
+Researching medical imaging, neuroimaging, and BCI signal processing pipelines.
 
-## 👯 Looking to Collaborate On
-- **Machine Learning** , **Computer Vision** and **BCIs** projects..
+Building end-to-end AI solutions, including LLM-based knowledge retrieval and OCR systems.
 
-## 🤔 Looking for Help With
-- Cutting-edge research in **Computational Neuroscience**, and explore its world.
-- Optimizing **EEG signal processing** pipelines.
-- Collaborations on **AI for Mental Health** applications.
+🌱 Learning & Exploration
 
-## 💬 Ask Me About
-- **Machine Learning** and **Computer Vision**.
-- **Brain-Computer Interfaces (BCI)** and **EEG Processing**.
-- **Computational Neuroscience** and its intersection with AI.
-- and Philosophy of Mind !
+Advanced techniques in computational neuroscience and brain–computer interfaces.
 
+Cutting-edge deep learning architectures, transformers, and generative AI models.
 
-### 🛠️ Technologies & Tools
-- **Programming Languages**: Python,SQL
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn, pandas, numpy
-- **Computer Vision**: OpenCV, YOLO, MediaPipe, torchvision.
-- **Other Tools**: Git, Docker, Jupyter Notebooks.
+👯 Collaboration Interests
 
+Machine Learning, Computer Vision, and AI for Biomedical applications.
+
+Projects intersecting EEG/BCI research and ethical AI development.
+
+💬 Ask Me About
+
+Deep Learning, Computer Vision, NLP, and LLMs.
+
+Neuroimaging, EEG signal analysis, and BCI research.
+
+Philosophy of mind and its intersection with AI technology.
+
+🛠️ Technologies & Tools
+
+Programming & Data: Python, NumPy, Pandas, SQL
+
+Machine Learning & AI: PyTorch, Torchvision, Scikit-learn, MLflow
+
+Computer Vision: OpenCV, YOLO, MediaPipe, Albumentations
+
+NLP & LLMs: Hugging Face Transformers, Ollama
+
+Deployment & Tools: FastAPI, Flask, Docker, Git, CI/CD pipelines
+
+Visualization: Matplotlib, Seaborn, Plotly
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirzx&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alirzx&theme=radical&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
