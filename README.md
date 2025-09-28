@@ -49,9 +49,3 @@ Visualization: Matplotlib, Seaborn, Plotly
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alirzx\&theme=radical\&hide_border=true\&border_radius=5.1\&date_format=M%20j%5B%2C%20Y%5D) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirzx\&layout=donut-vertical\&theme=radical) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirzx\&show_icons=true\&theme=radical\&hide_border=true) |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirzx&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alirzx&theme=radical&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirzx&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
