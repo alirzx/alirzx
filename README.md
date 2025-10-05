@@ -18,7 +18,7 @@ Advanced techniques in computational neuroscience and brain–computer interface
 
 Cutting-edge deep learning architectures, transformers, and generative AI models.
 
-## 👯 Collaboration Interests
+##  Collaboration Interests
 
 Machine Learning, Computer Vision, and AI for Biomedical applications.
 
