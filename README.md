@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I am an AI & Machine Learning Engineer with over 3 years of experience applying deep learning, computer vision, NLP, and biomedical imaging to real-world challenges. My work spans research and industry, including medical imaging, neuroimaging, and brain–computer interfaces (BCI). I am driven by a research-oriented and ethics-conscious approach, creating AI systems that are both technically robust and societally impactful.
 
-## 🔭 Current Work
+##  Current Work
 
 Developing scalable Computer Vision and NLP models for real-world applications.
 
@@ -12,7 +12,7 @@ Researching medical imaging, neuroimaging, and BCI signal processing pipelines.
 
 Building end-to-end AI solutions, including LLM-based knowledge retrieval and OCR systems.
 
-## 🌱 Learning & Exploration
+##  Learning & Exploration
 
 Advanced techniques in computational neuroscience and brain–computer interfaces.
 
