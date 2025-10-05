@@ -32,7 +32,7 @@ Neuroimaging, EEG signal analysis, and BCI research.
 
 Philosophy of mind and its intersection with AI technology.
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 Programming & Data: Python, NumPy, Pandas, SQL
 
