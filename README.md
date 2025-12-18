@@ -1,6 +1,6 @@
 ![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
 
-# Hi there, I'm Alireza Hashemi,
+# Hi there, I'm Alireza Hashemi
 
 Welcome to my GitHub! I am an AI & Machine Learning Engineer with over 3 years of experience applying deep learning, computer vision, NLP, and biomedical imaging to real-world challenges. My work spans research and industry, including medical imaging, neuroimaging, and brain–computer interfaces (BCI). I am driven by a research-oriented and ethics-conscious approach, creating AI systems that are both technically robust and societally impactful.
 
