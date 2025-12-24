@@ -22,7 +22,7 @@ Cutting-edge deep learning architectures, transformers, and generative AI models
 
 Machine Learning, Computer Vision, and AI for Biomedical applications.
 
-Projects intersecting EEG/BCI research and ethical AI development.
+Projects intersecting EEG/BCI research and ethical AI development
 
 ## 💬 Ask Me About
 
