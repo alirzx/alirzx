@@ -3,14 +3,11 @@
 <!--
 ![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
 -->
-
 <p align="center">
-  <img src="https://github.com/alirzx/alirzx/blob/main/assest/neurongif2.gif?raw=true" width="900" />
+  <img src="https://github.com/alirzx/alirzx/blob/main/assest/neurongif2.gif?raw=true" width="420" />
+  <img src="https://github.com/alirzx/alirzx/blob/main/assest/neurongif1.gif?raw=true" width="420" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/alirzx/alirzx/blob/main/assest/neurongif1.gif?raw=true" width="900" />
-</p>
+  
 
 
 # Alireza Hashemi
