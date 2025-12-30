@@ -1,4 +1,5 @@
 ![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
+![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neurongif2.gif?raw=true)
 
 # Alireza Hashemi
 
