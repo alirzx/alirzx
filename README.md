@@ -7,7 +7,8 @@ I’m an **AI & Machine Learning Engineer** with 3+ years of experience applying
 
 My work spans **research and industry**, with a strong focus on **medical imaging, neuroimaging, and brain–computer interfaces (BCI)**.  
 I take a **research-oriented and ethics-conscious** approach to building AI systems that are both **technically robust** and **societally impactful**.
-
+for check my full overview :
+https://alirzx.github.io/
 ---
 
 ## 👨‍💻 About Me
