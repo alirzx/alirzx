@@ -12,7 +12,7 @@
 
 # Alireza Hashemi
 
-AI Research Engineer.
+AI Research Engineer
 🌐 Personal Website: https://alirzx.github.io  
 📍 Mazandaran, Iran  
 
