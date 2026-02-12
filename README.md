@@ -14,7 +14,7 @@
 
 AI Research Engineer
 🌐 Personal Website: https://alirzx.github.io  
-📍 Earth, Iran  
+📍 Earth, Iran. 
 
 ---
 
