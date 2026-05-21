@@ -20,11 +20,7 @@ AI Research Engineer
 
 ## 👨‍🔬 About Me
 
-I am an **AI Research Engineer** working across **computer vision, biomedical and neuroimaging, natural language processing, and brain–computer interfaces (BCI)**. My work focuses on the development of **rigorous, reliable, and scientifically grounded machine learning systems**, spanning model design, multimodal data preprocessing, signal analysis, and end-to-end research pipelines.
-
-I engage with diverse data modalities—including **images, video, text, and biosignals (EEG)**—drawing on **deep learning, multimodal modeling, and advanced computational signal processing**. My approach emphasizes **methodological rigor, reproducibility, and principled experimental evaluation**, aligning technical development with scientific inquiry.
-
-Beyond engineering practice, my research perspective is informed by an enduring interest in the **philosophy of mind and the foundations of scientific explanation**. This lens shapes how I think about **representation, cognition, and intelligence**, and motivates the development of AI systems that are not only performant, but **analytically sound, ethically aware, and scientifically meaningful**—particularly in medical imaging, neurotechnology, and intelligent systems research.
+It's just all about representation learning!
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirzx&theme=radical" width="90%" />
