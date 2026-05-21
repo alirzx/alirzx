@@ -13,18 +13,15 @@
 # Alireza Hashemi
 
 AI Research Engineer
-🌐 Personal Website: https://alirzx.github.io  
-📍 Earth, Iran
+ .Personal Website: https://alirzx.github.io  
+ .Earth
 
 ---
 
 ## 👨‍🔬 About Me
 
-<abbr title="Deep focus on representation learning systems">
-It's just all about representation learning!
-</abbr>
-
 > It's just all about representation learning!
+
 
 
 <p align="center">
