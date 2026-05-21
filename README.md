@@ -24,6 +24,9 @@ AI Research Engineer
 It's just all about representation learning!
 </abbr>
 
+> It's just all about representation learning!
+
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirzx&theme=radical" width="90%" />
 </p>
