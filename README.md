@@ -20,9 +20,9 @@ AI Research Engineer
 
 ## 👨‍🔬 About Me
 
-<span style="color:#555;">
+<abbr title="Deep focus on representation learning systems">
 It's just all about representation learning!
-</span>
+</abbr>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirzx&theme=radical" width="90%" />
