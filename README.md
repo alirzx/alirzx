@@ -17,8 +17,6 @@ ABOUT? https://alirzx.github.io
  
 ---
 
-## 👨‍🔬 About Me
-
 > “All reality is encoded in representations.”
 
 
@@ -31,7 +29,7 @@ ABOUT? https://alirzx.github.io
 
 
 
-## 🧠 Core Skills & Frameworks
+## Core Skills & Frameworks
 
 ### Core Machine Learning & Data
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
@@ -106,7 +104,7 @@ ABOUT? https://alirzx.github.io
 
 ---
 
-## 🔬 Research & Technical Interests
+## Research & Technical Interests
 
 - Artificial Intelligence & Machine Learning  
 - Deep Learning & Representation Learning  
@@ -120,7 +118,7 @@ ABOUT? https://alirzx.github.io
 
 ---
 
-## 🎓 Background & Collaboration
+## Background & Collaboration
 
 - **Education**: B.Sc. in Software Engineering & Technologies  
 - **Research Experience**:  
@@ -131,7 +129,7 @@ ABOUT? https://alirzx.github.io
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 | Contribution Streak | Top Languages | GitHub Stats |
 |--------------------|---------------|--------------|
