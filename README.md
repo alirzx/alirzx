@@ -13,14 +13,13 @@
 # Alireza Hashemi
 
 AI Research Engineer
- .Personal Website: https://alirzx.github.io  
- .Earth
-
+ABOUT? https://alirzx.github.io
+ 
 ---
 
 ## 👨‍🔬 About Me
 
-> It's just all about representation learning!
+> “All reality is encoded in representations.”
 
 
 
