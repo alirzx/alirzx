@@ -1,4 +1,3 @@
-![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neuron.jpg?raw=true)
 
 <!--
 ![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
@@ -9,22 +8,15 @@
 </p>
   
 
-
-# Alireza Hashemi
-
-AI Research Engineer
-ABOUT? https://alirzx.github.io
- 
----
-
 > “All reality is encoded in representations.”
-
 
 ---
 
 ![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
 ![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neurongif2.gif?raw=true)
 ![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neurongif1.gif?raw=true)
+![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neuron.jpg?raw=true)
+
 
 <div align="center">
 
