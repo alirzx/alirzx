@@ -54,7 +54,7 @@ I am interested in the moment where raw data becomes structure; where structure 
 
 ---
 
-## 🧠 Work
+## Work
 
 I work mainly across:
 
@@ -69,7 +69,7 @@ I care about systems that are:
 
 ---
 
-## ⚙️ Stack, Compressed
+## Stack, Compressed
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge\&logo=pytorch)
@@ -86,7 +86,7 @@ I care about systems that are:
 
 ---
 
-## 🜂 Research Notes
+## Research Notes
 
 ### SpiTranNet-LIF
 
@@ -103,7 +103,7 @@ For the complete academic profile:
 
 ---
 
-## 🜃 Current Direction
+## Current Direction
 
 I am moving deeper into the intersection of:
 
@@ -117,7 +117,7 @@ Not just building models — building instruments for seeing.
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 | Contribution Streak                                                                                             | Top Languages                                                                                                             | GitHub Stats                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
