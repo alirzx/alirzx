@@ -22,9 +22,9 @@
 
 # alirahshmi;
 
-### AI & Machine Learning Engineer
+### Multi-Modal AI & Machine Learning Engineer
 
-#### Computer Vision · Medical AI · LLM Systems · NeuroAI · Applied Deep Learning
+#### Machine Learning · LLM-NLP Systems · Computer Vision · Applied Deep Learning · Medical AI · NeuroAI 
 
 *“Somewhere between cortex and code, a signal becomes a sentence.”*
 
