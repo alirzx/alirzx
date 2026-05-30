@@ -27,9 +27,126 @@ ABOUT? https://alirzx.github.io
 
 ---
 
+![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
+![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neurongif2.gif?raw=true)
+![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neurongif1.gif?raw=true)
+
+<div align="center">
+
+# Alireza Hashemi
+
+### AI & Machine Learning Engineer
+
+#### Computer Vision · Medical AI · LLM Systems · NeuroAI · Applied Deep Learning
+
+*“Somewhere between cortex and code, a signal becomes a sentence.”*
+
+[![Website](https://img.shields.io/badge/Website-alirzx.github.io-000000?style=for-the-badge\&logo=githubpages)](https://alirzx.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-alirzx-000000?style=for-the-badge\&logo=github)](https://github.com/alirzx)
+[![Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-000000?style=for-the-badge\&logo=googlescholar)](https://scholar.google.com/citations?user=O7t8-3EAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alireza--hashemi6996-000000?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/alireza-hashemi6996)
+[![Email](https://img.shields.io/badge/Email-alirahshmi%40gmail.com-000000?style=for-the-badge\&logo=gmail)](mailto:alirahshmi@gmail.com)
+
+</div>
+
+---
+
+## 🜁 About
+
+I build AI systems that cross the fragile border between **research and product**: computer vision services, medical AI pipelines, OCR/ASR workflows, LLM-RAG systems, multimodal tools, and optimized model APIs.
+
+My work moves through **images, language, biosignals, and machines of perception** — with a long-standing fascination for **neuroscience, philosophy of mind, philosophy of language, and the question of representation**.
+
+I am interested in the moment where raw data becomes structure; where structure becomes meaning; where meaning becomes an interface.
+
+> *A model is not only an engine of prediction. It is a small philosophy of what the world is allowed to be.*
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirzx&theme=radical" width="90%" />
+</p>
+
+---
+
+## 🧠 Work
+
+I work mainly across:
+
+**Computer Vision** · **Medical AI** · **Deep Learning** · **LLM-RAG Systems** · **OCR/ASR** · **Multimodal AI** · **EEG/BCI** · **Neuroimaging** · **Biomedical Signal Processing** · **Model Deployment**
+
+I care about systems that are:
+
+* research-aware, but not trapped in notebooks;
+* reproducible, but not lifeless;
+* optimized enough to serve;
+* interpretable enough to be questioned.
+
+---
+
+## ⚙️ Stack, Compressed
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge\&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge\&logo=opencv)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge\&logo=huggingface)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge\&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge\&logo=docker)
+![ONNX](https://img.shields.io/badge/ONNX-000000?style=for-the-badge)
+![TensorRT](https://img.shields.io/badge/TensorRT-000000?style=for-the-badge)
+![MNE](https://img.shields.io/badge/MNE--Python-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+---
+
+## 🜂 Research Notes
+
+### SpiTranNet-LIF
+
+A hybrid spiking-transformer framework for efficient motor imagery decoding, connecting temporal EEG dynamics with attention-based representation learning.
+[View on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O7t8-3EAAAAJ&citation_for_view=O7t8-3EAAAAJ:2osOgNQ5qMEC)
+
+### Robust Breast Cancer Classification Across Magnifications
+
+A medical AI study for breast cancer histopathology classification, focused on robustness across magnification levels and reliable deep feature learning.
+[View on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=O7t8-3EAAAAJ&citation_for_view=O7t8-3EAAAAJ:2osOgNQ5qMEC)
+
+For the complete academic profile:
+[Google Scholar](https://scholar.google.com/citations?user=O7t8-3EAAAAJ&hl=en)
+
+---
+
+## 🜃 Current Direction
+
+I am moving deeper into the intersection of:
+
+**production AI systems**,
+**medical and neuro-inspired intelligence**,
+**multimodal foundation models**,
+**language as interface**,
+and **machine perception as a form of structured interpretation**.
+
+Not just building models — building instruments for seeing.
+
+---
+
+## 📊 GitHub Activity
+
+| Contribution Streak                                                                                             | Top Languages                                                                                                             | GitHub Stats                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alirzx\&theme=radical\&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirzx\&layout=donut-vertical\&theme=radical) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alirzx\&show_icons=true\&theme=radical\&hide_border=true) |
+
+---
+
+<div align="center">
+
+*“From neuron to symbol, from image to language, from silence to system.”*
+
+</div>
 
 
-## Core Skills & Frameworks
+
+<!-- ## Core Skills & Frameworks
 
 ### Core Machine Learning & Data
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
@@ -135,4 +252,4 @@ ABOUT? https://alirzx.github.io
 |--------------------|---------------|--------------|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alirzx&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirzx&layout=donut-vertical&theme=radical) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alirzx&show_icons=true&theme=radical&hide_border=true) |
 
----
+--- -->
