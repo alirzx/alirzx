@@ -20,11 +20,6 @@ ABOUT? https://alirzx.github.io
 > “All reality is encoded in representations.”
 
 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirzx&theme=radical" width="90%" />
-</p>
-
 ---
 
 ![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
