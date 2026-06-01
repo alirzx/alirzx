@@ -26,7 +26,6 @@
 
 #### Machine Learning · LLM-NLP Systems · Computer Vision · Applied Deep Learning · Medical AI · NeuroAI 
 
-*“Somewhere between cortex and code, a signal becomes a sentence.”*
 
 [![Website](https://img.shields.io/badge/Website-alirzx.github.io-000000?style=for-the-badge\&logo=githubpages)](https://alirzx.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-alirzx-000000?style=for-the-badge\&logo=github)](https://github.com/alirzx)
