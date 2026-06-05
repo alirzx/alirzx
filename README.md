@@ -8,7 +8,7 @@
 </p>
    -->
 
-> “All reality is encoded in representations.”
+> “All reality is encoded in representations..”
 
 ---
 
