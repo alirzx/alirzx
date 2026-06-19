@@ -116,11 +116,36 @@ Not just building models — building instruments for seeing.
 
 ---
 
-## GitHub Activity
+## 📈 GitHub Stats
 
-| Contribution Streak                                                                                             | Top Languages                                                                                                             | GitHub Stats                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alirzx\&theme=radical\&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirzx\&layout=donut-vertical\&theme=radical) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alirzx\&show_icons=true\&theme=radical\&hide_border=true) |
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirzx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirzx&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alirzx&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alirzx&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirzx&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
