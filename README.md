@@ -12,10 +12,10 @@
 
 ---
 
-#![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
+![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
 ![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neurongif2.gif?raw=true)
 ![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neurongif1.gif?raw=true)
-#![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neuron.jpg?raw=true)
+![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neuron.jpg?raw=true)
 
 
 <div align="center">
@@ -59,13 +59,6 @@ I work mainly across:
 
 **Computer Vision** · **Medical AI** · **Deep Learning** · **LLM-RAG Systems** · **OCR/ASR** · **Multimodal AI** · **EEG/BCI** · **Neuroimaging** · **Biomedical Signal Processing** · **Model Deployment**
 
-I care about systems that are:
-
-* research-aware, but not trapped in notebooks;
-* reproducible, but not lifeless;
-* optimized enough to serve;
-* interpretable enough to be questioned.
-
 ---
 
 ## Stack, Compressed
@@ -100,19 +93,7 @@ A medical AI study for breast cancer histopathology classification, focused on r
 For the complete academic profile:
 [Google Scholar](https://scholar.google.com/citations?user=O7t8-3EAAAAJ&hl=en)
 
----
 
-## Current Direction
-
-I am moving deeper into the intersection of:
-
-**production AI systems**,
-**medical and neuro-inspired intelligence**,
-**multimodal foundation models**,
-**language as interface**,
-and **machine perception as a form of structured interpretation**.
-
-Not just building models — building instruments for seeing.
 
 ---
 
