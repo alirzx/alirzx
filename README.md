@@ -1,8 +1,3 @@
-<!-- Original visual assets preserved. -->
-> “All reality is encoded in representations;”
-
----
-
 ![NeuralNetwork](https://www.nikonsmallworld.com/images/photos/2020/_photo800/No9-JasonKirk_2Neurons.jpg)
 ![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neurongif2.gif?raw=true)
 ![NeuralNetwork](https://github.com/alirzx/alirzx/blob/main/assest/neurongif1.gif?raw=true)
@@ -12,9 +7,9 @@
 
 # Alireza Hashemi
 
-### Applied AI & Machine Learning Engineer | Computer Vision | Production ML Systems
+### Applied AI & Machine Learning Engineer
 
-**Computer Vision · Real-Time Video AI · Multimodal AI · Deep Learning · LLM & Agentic Systems**
+**Agentic AI · AI Agents & Orchestration · Deep Learning · LLM/RAG Systems · Computer Vision**
 
 [![Website](https://img.shields.io/badge/Website-alirzx.github.io-000000?style=for-the-badge&logo=githubpages)](https://alirzx.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-alirzx-000000?style=for-the-badge&logo=github)](https://github.com/alirzx)
@@ -28,11 +23,9 @@
 
 ## About
 
-Applied AI & Machine Learning Engineer with **5+ years of industry experience** developing and productionizing **Computer Vision, Deep Learning, and multimodal AI systems**. I build end-to-end solutions across **image, video, text, and sequential data**, from data engineering, model training, and evaluation to optimized inference, deployment, and monitoring.
+I'm an AI engineer with **5+ years of experience** building applied ML systems and bringing AI capabilities into production. My work spans **agentic copilots, LLM and retrieval platforms, multimodal applications, and deep-learning pipelines**, from model development and evaluation to orchestration, deployment, and monitoring.
 
-My work spans **real-time video analytics, detection, segmentation, tracking, pose estimation, document intelligence, and production AI infrastructure**, alongside **LLMs, VLMs, RAG, GraphRAG, and agentic workflows**. I focus on practical systems that balance **model performance, latency, scalability, and reliability**.
-
-Beyond industrial AI, my research interests include **medical imaging, EEG/BCI, neuroimaging, spatiotemporal learning, and advanced neural architectures**.
+I enjoy the engineering behind reliable AI: choosing the right models, connecting them to tools and data, and making the resulting systems useful, efficient, and maintainable. My broader work includes computer vision, real-time video analytics, medical imaging, and EEG/BCI research.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirzx&theme=radical" width="90%" />
@@ -40,74 +33,44 @@ Beyond industrial AI, my research interests include **medical imaging, EEG/BCI, 
 
 ---
 
-## What I Build
+## Engineering Focus
 
-**Vision & Video AI:** Real-time detection, multi-object tracking, recognition, pose/action analysis, edge inference, and visual monitoring systems.
+**Agentic AI & enterprise platforms:** Domain-specific AI copilots with specialist workflows, tool calling, multi-model routing, agent memory, guardrails, and hybrid **GraphRAG/vector retrieval** over operational knowledge and graph data.
 
-**Production ML & Multimodal Systems:** Data/annotation pipelines, OCR and document intelligence, model serving, asynchronous workflows, evaluation, observability, and LLM/VLM-powered applications.
+**Applied ML & production infrastructure:** End-to-end training and evaluation workflows, model serving, asynchronous pipelines, local/cloud inference, latency optimization, monitoring, and observability.
 
-**Sequential & Research ML:** Time-series modeling, EEG motor-imagery decoding, medical image analysis, and hybrid deep-learning architectures.
+**Deep learning, vision & multimodal systems:** Vision-language models, auto-annotation, OCR/document intelligence, real-time detection and tracking, pose estimation, edge vision, and sequential modeling.
 
 ---
 
 ## Tools & Technologies
 
-**ML, Deep Learning & Computer Vision**
+**AI, Agents & Retrieval**
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=ultralytics)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
-![MNE](https://img.shields.io/badge/MNE--Python-000000?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama) ![Neo4j](https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&logo=neo4j) ![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant)
 
-**Production ML, MLOps & Infrastructure**
+**Applied ML & Computer Vision**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![ONNX](https://img.shields.io/badge/ONNX-000000?style=for-the-badge&logo=onnx)
-![TensorRT](https://img.shields.io/badge/TensorRT-000000?style=for-the-badge&logo=nvidia)
-![MLflow](https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
-![MinIO](https://img.shields.io/badge/MinIO-000000?style=for-the-badge&logo=minio)
-![Celery](https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn) ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv) ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge) ![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge) ![ONNX](https://img.shields.io/badge/ONNX-000000?style=for-the-badge&logo=onnx) ![TensorRT](https://img.shields.io/badge/TensorRT-000000?style=for-the-badge&logo=nvidia) ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 
-**LLMs, Retrieval & Agentic AI**
+**AI Infrastructure & MLOps**
 
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama)
-![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant)
-![Neo4j](https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&logo=neo4j)
-![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis) ![Celery](https://img.shields.io/badge/Celery-000000?style=for-the-badge) ![MinIO](https://img.shields.io/badge/MinIO-000000?style=for-the-badge&logo=minio) ![MLflow](https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow) ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana)
 
 ---
 
-## Research & Publications
+## Publications
 
-**1. SpiTranNet-LIF: A Hybrid Spiking–Transformer Framework for Efficient Motor Imagery Decoding**  
-*Accepted for publication · ICCAR 2026*  
-Hybrid spiking-transformer learning for EEG motor-imagery decoding.
+1. **SpiTranNet-LIF: A Hybrid Spiking–Transformer Framework for Efficient Motor Imagery Decoding**  
+   *Accepted for publication, ICCAR 2026.*
 
-**2. Deep Learning for EEG-Based Motor Imagery Classification: A 2016–2026 Decade Review**  
-*Submitted manuscript*  
-A review of deep-learning methods, architectures, and challenges in motor-imagery BCIs.
+2. **Deep Learning for EEG-Based Motor Imagery Classification: A 2016–2026 Decade Review**  
+   *Submitted manuscript.*
 
-**3. Breast Cancer Classification using ResNeXt50_32x4d with Hybrid Loss**  
-*Submitted to Biomedical Signal Processing and Control · Under review*  
-Deep-learning-based histopathology image classification.
+3. **Breast Cancer Classification using ResNeXt50_32x4d with Hybrid Loss**  
+   *Submitted to Biomedical Signal Processing and Control; under review.*
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=O7t8-3EAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=O7t8-3EAAAAJ&hl=en)
 
 ---
 
@@ -141,11 +104,3 @@ Deep-learning-based histopathology image classification.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirzx&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-<div align="center">
-
-*“From neuron to symbol, from image to language, from silence to system.”*
-
-</div>
