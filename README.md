@@ -25,9 +25,9 @@
 
 ## About
 
-I'm an AI engineer with **5+ years of experience** developing applied ML systems and turning AI research into usable products. I work across **agentic AI, LLM/RAG, multimodal and deep-learning systems**, covering everything from data and model development to orchestration, APIs, deployment, optimization, and observability.
+I'm an **Applied AI & Machine Learning Engineer** with **5+ years of experience** developing AI systems for real-world products and operational environments. My main focus is **agentic AI, AI agents and orchestration, LLM/RAG systems, deep learning, and production ML engineering**.
 
-I focus on building AI that works beyond a demo: grounded in real data, integrated with tools, and designed for reliability and maintainability. My background also includes **computer vision, video analytics, time-series modeling, medical imaging, and EEG/BCI research**.
+I work across the full engineering lifecycle: data and model development, retrieval and context design, tool integration, evaluation, inference optimization, APIs, deployment, and monitoring. I also have hands-on experience with **computer vision, multimodal AI, real-time video analytics, time-series modeling, and medical/EEG research**. I care most about building systems that are useful, reliable, and maintainable.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alirzx&theme=radical" width="90%" />
@@ -35,26 +35,28 @@ I focus on building AI that works beyond a demo: grounded in real data, integrat
 
 ---
 
-## Selected Engineering Work
+## Experience & Expertise
 
-- **Agentic AI & enterprise copilots:** [Soorin Copilot](https://github.com/alirzx/Soorin_Copilot) and [Agentic SOC](https://github.com/alirzx/Agentic_SOC) combine specialized agents, tool calling, model routing, memory, and evidence-aware workflows. Related work includes an [AI privacy gateway](https://github.com/alirzx/Agent_Data_privacy_gateway).
-- **Knowledge & graph intelligence:** [Temporal Knowledge Graph](https://github.com/alirzx/Soorin_Bidirectional_Temporal_Knowledge_Graph) for source-aware, time-sensitive security evidence, identity history, and retrieval infrastructure.
-- **Multimodal vision & document AI:** [Vision auto-annotation](https://github.com/alirzx/Auto-Labeling-Service-Based-on-RexOmni-Arcitecture-) with Florence/Rex-Omni models and [asynchronous document extraction](https://github.com/alirzx/organizational-wiki-intelligence-doc-scanner) using OCR, layout analysis, and detection.
-- **Real-time computer vision:** [Video analytics platform](https://github.com/alirzx/Jail-Reporter-Service) for detection, tracking, counting, face recognition, and monitoring; additional work spans pose estimation and edge inference.
-- **ML engineering & sequential models:** [Time-series forecasting platform](https://github.com/alirzx/XAU_volatility_Analysis_Engine) covering training, serving, model lifecycle, and monitoring, plus [spiking-transformer EEG decoding](https://github.com/alirzx/MotorImagary-Classification-using-Hybrid-SNN-and-Advance-method).
+- **Agentic AI & LLM engineering:** Agent orchestration, specialist workflows, tool/function calling, multi-model routing, state and memory, guardrails, structured outputs, and evaluation.
+- **Knowledge & multimodal intelligence:** RAG/GraphRAG, hybrid search, embeddings, reranking, graph-based context, vision-language models, OCR, and document processing.
+- **Applied ML & deep learning:** Model training, fine-tuning, benchmarking, computer vision, video analytics, sequential modeling, and biomedical signal/image analysis.
+- **Production AI systems:** Model serving, asynchronous pipelines, Dockerized services, CI/CD, CPU/GPU optimization, observability, and deployment-oriented reliability.
 
 ---
 
 ## Tools & Technologies
 
-**Agents, LLMs & retrieval**  
-![LangGraph](https://img.shields.io/badge/LangGraph-222222?style=flat-square&logo=langchain) ![LangChain](https://img.shields.io/badge/LangChain-222222?style=flat-square&logo=langchain) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-222222?style=flat-square&logo=huggingface) ![Ollama](https://img.shields.io/badge/Ollama-222222?style=flat-square&logo=ollama) ![Neo4j](https://img.shields.io/badge/Neo4j-222222?style=flat-square&logo=neo4j) ![Qdrant](https://img.shields.io/badge/Qdrant-222222?style=flat-square&logo=qdrant) ![FAISS](https://img.shields.io/badge/FAISS-222222?style=flat-square)
+**Agentic AI, LLMs & Retrieval**  
+![LangGraph](https://img.shields.io/badge/LangGraph-222222?style=flat-square&logo=langchain) ![LangChain](https://img.shields.io/badge/LangChain-222222?style=flat-square&logo=langchain) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-222222?style=flat-square&logo=huggingface) ![Ollama](https://img.shields.io/badge/Ollama-222222?style=flat-square&logo=ollama) ![Neo4j](https://img.shields.io/badge/Neo4j-222222?style=flat-square&logo=neo4j) ![Qdrant](https://img.shields.io/badge/Qdrant-222222?style=flat-square&logo=qdrant) ![Chroma](https://img.shields.io/badge/Chroma-222222?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-222222?style=flat-square)
 
-**Machine learning, deep learning & vision**  
-![Python](https://img.shields.io/badge/Python-222222?style=flat-square&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-222222?style=flat-square&logo=pytorch) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-222222?style=flat-square&logo=scikitlearn) ![OpenCV](https://img.shields.io/badge/OpenCV-222222?style=flat-square&logo=opencv) ![YOLO](https://img.shields.io/badge/YOLO-222222?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-222222?style=flat-square) ![MNE-Python](https://img.shields.io/badge/MNE--Python-222222?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-222222?style=flat-square&logo=onnx) ![TensorRT](https://img.shields.io/badge/TensorRT-222222?style=flat-square&logo=nvidia)
+**Deep Learning, ML & Data**  
+![Python](https://img.shields.io/badge/Python-222222?style=flat-square&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-222222?style=flat-square&logo=pytorch) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-222222?style=flat-square&logo=scikitlearn) ![NumPy](https://img.shields.io/badge/NumPy-222222?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-222222?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-222222?style=flat-square&logo=scipy) ![Jupyter](https://img.shields.io/badge/Jupyter-222222?style=flat-square&logo=jupyter) ![MLflow](https://img.shields.io/badge/MLflow-222222?style=flat-square)
 
-**Engineering, deployment & MLOps**  
-![FastAPI](https://img.shields.io/badge/FastAPI-222222?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker) ![Git](https://img.shields.io/badge/Git-222222?style=flat-square&logo=git) ![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-222222?style=flat-square&logo=redis) ![Celery](https://img.shields.io/badge/Celery-222222?style=flat-square) ![MinIO](https://img.shields.io/badge/MinIO-222222?style=flat-square&logo=minio) ![MLflow](https://img.shields.io/badge/MLflow-222222?style=flat-square&logo=mlflow) ![Prometheus](https://img.shields.io/badge/Prometheus-222222?style=flat-square&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-222222?style=flat-square&logo=grafana) ![Loki](https://img.shields.io/badge/Loki-222222?style=flat-square&logo=grafana) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-222222?style=flat-square&logo=gitlab)
+**Computer Vision, Multimodal & Signal Processing**  
+![OpenCV](https://img.shields.io/badge/OpenCV-222222?style=flat-square&logo=opencv) ![YOLO](https://img.shields.io/badge/YOLO-222222?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-222222?style=flat-square) ![Albumentations](https://img.shields.io/badge/Albumentations-222222?style=flat-square) ![MNE-Python](https://img.shields.io/badge/MNE--Python-222222?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-222222?style=flat-square&logo=onnx) ![TensorRT](https://img.shields.io/badge/TensorRT-222222?style=flat-square&logo=nvidia)
+
+**AI Systems, Backend & MLOps**  
+![FastAPI](https://img.shields.io/badge/FastAPI-222222?style=flat-square&logo=fastapi) ![Pydantic](https://img.shields.io/badge/Pydantic-222222?style=flat-square&logo=pydantic) ![Celery](https://img.shields.io/badge/Celery-222222?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-222222?style=flat-square&logo=redis) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql) ![MinIO](https://img.shields.io/badge/MinIO-222222?style=flat-square&logo=minio) ![Docker](https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux) ![Nginx](https://img.shields.io/badge/Nginx-222222?style=flat-square&logo=nginx) ![Git](https://img.shields.io/badge/Git-222222?style=flat-square&logo=git) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-222222?style=flat-square&logo=gitlab) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-222222?style=flat-square&logo=githubactions) ![Pytest](https://img.shields.io/badge/Pytest-222222?style=flat-square&logo=pytest) ![Prometheus](https://img.shields.io/badge/Prometheus-222222?style=flat-square&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-222222?style=flat-square&logo=grafana) ![Loki](https://img.shields.io/badge/Loki-222222?style=flat-square&logo=grafana) ![Streamlit](https://img.shields.io/badge/Streamlit-222222?style=flat-square&logo=streamlit) ![React](https://img.shields.io/badge/React-222222?style=flat-square&logo=react)
 
 ---
 
@@ -68,7 +70,7 @@ I focus on building AI that works beyond a demo: grounded in real data, integrat
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alirzx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -77,7 +79,7 @@ I focus on building AI that works beyond a demo: grounded in real data, integrat
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alirzx&theme=tokyonight&hide_border=true" />
@@ -85,7 +87,7 @@ I focus on building AI that works beyond a demo: grounded in real data, integrat
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alirzx&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
@@ -93,7 +95,7 @@ I focus on building AI that works beyond a demo: grounded in real data, integrat
 
 ---
 
-## 📊 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirzx&theme=tokyo-night&hide_border=true" />
