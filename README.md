@@ -72,11 +72,107 @@ I enjoy building AI systems that work beyond a prototype: reliable, observable, 
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
-[![View GitHub activity](https://img.shields.io/badge/GitHub-View%20Contributions%20%26%20Achievements-222222?style=flat-square&logo=github)](https://github.com/alirzx)
+The cards below are generated from GitHub activity through a scheduled GitHub Actions workflow. SVGs are committed to this repository and refresh daily. Public repository language statistics reflect code composition, not proficiency; private work may not appear in repository-level breakdowns.
 
-GitHub's native profile includes my current contribution calendar, repository activity, and achievements.
+### Overview & Momentum
+
+**GitHub Overview**  
+A snapshot of overall contributions, merged pull requests, issues, stars, followers, and public repository activity.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/overview.dark.svg" />
+  <img src="assets/profile-cards/overview.light.svg" alt="GitHub Overview: GitHub activity visualization" width="100%" />
+</picture>
+
+**Contribution Momentum**  
+A rolling 12-month view of contribution trends across account history.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/momentum.dark.svg" />
+  <img src="assets/profile-cards/momentum.light.svg" alt="Contribution Momentum: GitHub activity visualization" width="100%" />
+</picture>
+
+---
+
+### Contributions & History
+
+**3D Contribution Calendar & Streaks**  
+A three-dimensional calendar of recent contributions, with current and longest streak statistics.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/contributions.dark.svg" />
+  <img src="assets/profile-cards/contributions.light.svg" alt="3D Contribution Calendar & Streaks: GitHub activity visualization" width="100%" />
+</picture>
+
+**Lifetime Contribution History**  
+Year-by-year contribution history showing how activity has evolved over time.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/lifetime.dark.svg" />
+  <img src="assets/profile-cards/lifetime.light.svg" alt="Lifetime Contribution History: GitHub activity visualization" width="100%" />
+</picture>
+
+**Contribution Composition**  
+Yearly breakdown of commits, pull requests, issues, reviews, and private contribution totals.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/composition.dark.svg" />
+  <img src="assets/profile-cards/composition.light.svg" alt="Contribution Composition: GitHub activity visualization" width="100%" />
+</picture>
+
+---
+
+### Activity Patterns
+
+**Contribution Rhythm**  
+A view of contribution activity by weekday and month.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/rhythm.dark.svg" />
+  <img src="assets/profile-cards/rhythm.light.svg" alt="Contribution Rhythm: GitHub activity visualization" width="100%" />
+</picture>
+
+**Commit Cadence**  
+A weekday-by-hour map of commits over the trailing year, plus time-of-day and commit-size patterns.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/cadence.dark.svg" />
+  <img src="assets/profile-cards/cadence.light.svg" alt="Commit Cadence: GitHub activity visualization" width="100%" />
+</picture>
+
+---
+
+### Repositories & Languages
+
+**Repository Activity**  
+A ranking of public repositories by recent commits, with language and repository context.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/repositories.dark.svg" />
+  <img src="assets/profile-cards/repositories.light.svg" alt="Repository Activity: GitHub activity visualization" width="100%" />
+</picture>
+
+**Repository Lifelines**  
+Timelines showing the lifespan and development activity of publicly owned source repositories.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/portfolio.dark.svg" />
+  <img src="assets/profile-cards/portfolio.light.svg" alt="Repository Lifelines: GitHub activity visualization" width="100%" />
+</picture>
+
+**Programming Languages**  
+A treemap of language bytes across public source repositories, with a repository-frequency breakdown.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/languages.dark.svg" />
+  <img src="assets/profile-cards/languages.light.svg" alt="Programming Languages: GitHub activity visualization" width="100%" />
+</picture>
+
+---
+
+[Explore GitHub's native contribution activity](https://github.com/alirzx)
 
 <!--
 Legacy remote-generated statistics images have been intentionally hidden because the
