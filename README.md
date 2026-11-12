@@ -172,7 +172,8 @@ A treemap of language bytes across public source repositories, with a repository
 
 ---
 
-[Explore GitHub's native contribution activity](https://github.com/alirzx)
+<!--[Explore GitHub's native contribution activity](https://github.com/alirzx)
+-->
 
 <!--
 Legacy remote-generated statistics images have been intentionally hidden because the
