@@ -1,0 +1,42 @@
+name: Profile Cards
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/profile-cards.yml'
+      - 'README.md'
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards-main
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'alirzx/alirzx'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+
+      - name: Render ten profile analytics cards (light and dark)
+        uses: seijikohara/profile-cards-action@fe2fad30b5c7a47baee5f508976cc5a0ceeba512 # v1.17.3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: alirzx
+          cards: overview,momentum,contributions,lifetime,composition,rhythm,cadence,repositories,portfolio,languages
+          output-dir: assets/profile-cards
+          themes: light,dark
+          layout: split
+          palette: green
+          legend: scale
+          language-limit: '10'
+          commit-sweep-limit: '0'
+          commit: 'true'
+          commit-message: 'chore(profile): refresh ten GitHub activity cards [skip ci]'
